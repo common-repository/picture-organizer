@@ -1,0 +1,12 @@
+<h2>{$backup_headline}</h2>
+<fieldset><legend>{$backup_legend}</legend>
+    <p>{$backup_infotext}</p>
+    <p><button name="submit_backup" value="submit">{$caption_submit_button}</button></p>
+</fieldset>
+<fieldset><legend>{$available_backups}</legend>
+<table border="0">
+    <tr><th style="width:300px">{$caption_filename}</th><th>{$caption_date}</th><th>{$caption_filesize} MB</th><th>{$caption_action}</th></tr>
+    {$backup_details}
+</table>
+    {$no_backups_available}
+</fieldset>

@@ -1,0 +1,703 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Picture-Organizer\n"
+"POT-Creation-Date: 2016-01-31 16:27+0100\n"
+"PO-Revision-Date: 2016-01-31 18:43+0100\n"
+"Last-Translator: Rudolf Fiedler <r.fiedler@ovm.de>\n"
+"Language-Team: OVM <R.Fiedler@ovm.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/ovm_po_premium.php:49
+msgid "Media-Keywords"
+msgstr "Schlagworte"
+
+#: inc/ovm_po_premium.php:50
+msgid "Keyword"
+msgstr "Schlagworte"
+
+#: inc/ovm_po_premium.php:51
+msgid "Keywords"
+msgstr "Schlagworte"
+
+#: inc/ovm_po_premium.php:52
+msgid "All Items"
+msgstr "Alle Schlagworte"
+
+#: inc/ovm_po_premium.php:53
+msgid "Parent Item"
+msgstr "Übergeordnete Kategorie"
+
+#: inc/ovm_po_premium.php:54
+msgid "Parent Item:"
+msgstr "Übergeordnete Kategorie:"
+
+#: inc/ovm_po_premium.php:55
+msgid "New Item Name"
+msgstr "Neuer Schlagwort-Name"
+
+#: inc/ovm_po_premium.php:56
+msgid "Add New Item"
+msgstr "Neues Schlagwort hinzufügen"
+
+#: inc/ovm_po_premium.php:57
+msgid "Edit Item"
+msgstr "Schlagwort bearbeiten"
+
+#: inc/ovm_po_premium.php:58
+msgid "Update Item"
+msgstr "Schlagwortändern"
+
+#: inc/ovm_po_premium.php:59
+msgid "View Item"
+msgstr "Schlagwort betrachten"
+
+#: inc/ovm_po_premium.php:60
+msgid "Separate items with commas"
+msgstr "Trenne einzelne Schlagworte durch Komma (,)"
+
+#: inc/ovm_po_premium.php:61
+msgid "Add or remove items"
+msgstr "Schlagworte hinzufügen oder entfernen"
+
+#: inc/ovm_po_premium.php:62
+msgid "Choose from the most used"
+msgstr "Wähle aus den häufigsten Schlagworten"
+
+#: inc/ovm_po_premium.php:63
+msgid "Popular Items"
+msgstr "Beliebte Schlagaworte"
+
+#: inc/ovm_po_premium.php:64
+msgid "Search Items"
+msgstr "Suchbegriffe"
+
+#: inc/ovm_po_premium.php:65
+msgid "Not Found"
+msgstr "Nicht gefunden"
+
+#: inc/ovm_po_premium.php:66
+msgid "Items list"
+msgstr "Schlagwort-Liste"
+
+#: inc/ovm_po_premium.php:67
+msgid "Items list navigation"
+msgstr "Schlagwort-Navigation"
+
+#: inc/ovm_po_premium.php:95 inc/ovm_po_premium.php:96
+#: inc/ovm_po_premium.php:110
+msgid "Category Attachments"
+msgstr "Medien-Kategorie"
+
+#: inc/ovm_po_premium.php:97
+msgid "Search Category Attachments"
+msgstr "Suche nach Kategorien"
+
+#: inc/ovm_po_premium.php:98
+msgid "Popular Category Attachments"
+msgstr "Beliebte Kategorien"
+
+#: inc/ovm_po_premium.php:99
+msgid "All Category Attachments"
+msgstr "Alle anzeigen"
+
+#: inc/ovm_po_premium.php:100
+msgid "Parent Category Attachments"
+msgstr "Eltern-Kategorie"
+
+#: inc/ovm_po_premium.php:101
+msgid "Parent Category Attachments:"
+msgstr "Eltern-Kategorien"
+
+#: inc/ovm_po_premium.php:102
+msgid "Edit Category Attachments"
+msgstr "Kategorien für Attachments bearbeiten"
+
+#: inc/ovm_po_premium.php:103
+msgid "View Category Attachments"
+msgstr "Kategorien ansehen"
+
+#: inc/ovm_po_premium.php:104
+msgid "Update Category Attachments"
+msgstr "Kategorie ändern"
+
+#: inc/ovm_po_premium.php:105
+msgid "Add New Category Attachments"
+msgstr "Neue Kategorie für Medien "
+
+#: inc/ovm_po_premium.php:106
+msgid "New Category Attachments Name"
+msgstr "Neuer Kategorie-Name"
+
+#: inc/ovm_po_premium.php:107
+msgid "Separate category attachments with commas"
+msgstr "Kategorien mit \",\" trennen"
+
+#: inc/ovm_po_premium.php:108
+msgid "Add or remove category attachments"
+msgstr "Anhang-Kategorien ergänzen oder löschen"
+
+#: inc/ovm_po_premium.php:109
+msgid "Choose from most used category attachments"
+msgstr "Wähle aus den am meisten verwendeten Kategorien"
+
+#: inc/ovm_po_premium.php:138 inc/ovm_po_premium_sik.php:32
+msgid "Backupfile delete successfully"
+msgstr "Backupdatei erfolgreich gelöscht"
+
+#: inc/ovm_po_premium.php:138 inc/ovm_po_premium_sik.php:32
+msgid "Backupfile delete error"
+msgstr "Fehler beim Löschen der Backup-Datei"
+
+#: inc/ovm_po_premium.php:213 inc/ovm_po_premium_sik.php:107
+msgid "XML-File created"
+msgstr "XML-Datei erstellt"
+
+#: inc/ovm_po_premium.php:214 inc/ovm_po_premium_sik.php:108
+msgid "CSV-File created"
+msgstr "CSV-Datei erstellt"
+
+#: inc/ovm_po_premium.php:225 inc/ovm_po_premium_sik.php:119
+msgid "cannot create zip-archive"
+msgstr "Kann kein ZIP-Archiv erstellen"
+
+#: inc/ovm_po_premium.php:235 inc/ovm_po_premium_sik.php:129
+msgid "ZIP-Archive created"
+msgstr "ZIP-Archiv erstellt"
+
+#: inc/ovm_po_premium.php:246
+msgid "show"
+msgstr "anzeigen"
+
+#: inc/ovm_po_premium.php:257
+msgid "Credits will be shown"
+msgstr "Credits/Bildnachweise werden angezeigt"
+
+#: inc/ovm_po_premium.php:257
+msgid "Credits will not be shown"
+msgstr "Credits/Bildnachweise werden nicht angezeigt"
+
+#: inc/ovm_po_premium.php:282 inc/ovm_po_premium_sik.php:168
+#: ovm-picture-organizer.php:484
+msgid "Processing Picture-Organizer-Backups"
+msgstr "Picture-Organizer-Backup durchführen"
+
+#: inc/ovm_po_premium.php:283 inc/ovm_po_premium_sik.php:169
+#: ovm-picture-organizer.php:483
+msgid "Backup Picturedata"
+msgstr "Bilddaten sichern"
+
+#: inc/ovm_po_premium.php:284 inc/ovm_po_premium_sik.php:170
+#: ovm-picture-organizer.php:485
+msgid "Available Picturedata-Backups"
+msgstr "Verfügbare Picture-Organizer Backups"
+
+#: inc/ovm_po_premium.php:287 inc/ovm_po_premium_sik.php:173
+msgid "Date"
+msgstr "Datum"
+
+#: inc/ovm_po_premium.php:288 inc/ovm_po_premium_sik.php:174
+msgid "Filename"
+msgstr "Dateiname"
+
+#: inc/ovm_po_premium.php:289 inc/ovm_po_premium_sik.php:175
+msgid "Filesize"
+msgstr "Dateigröße"
+
+#: inc/ovm_po_premium.php:290 inc/ovm_po_premium_sik.php:176
+msgid "Start New Backup"
+msgstr "Neues Backup starten"
+
+#: inc/ovm_po_premium.php:291 inc/ovm_po_premium_sik.php:177
+msgid "Action"
+msgstr "Aktion"
+
+#: inc/ovm_po_premium.php:292 inc/ovm_po_premium_sik.php:178
+msgid "Delete"
+msgstr "Löschen"
+
+#: inc/ovm_po_premium.php:293 inc/ovm_po_premium_sik.php:179
+msgid ""
+"This backup-module creates a zip-archive, which contents the picture-data "
+"(as xml and as csv, and all the media-data in the subdirectories; With click "
+"on the filename you start the download of tze backup-archive"
+msgstr ""
+"Dieses Modul erzeugt ein ZIP-Archiv mit den Medien und den Daten als XML- "
+"und als CSV-Datei. Durch Klicken auf den jeweiligen Dateinamen starten Sie "
+"den Download des ZIP-Archives"
+
+#: inc/ovm_po_premium.php:314 inc/ovm_po_premium_sik.php:200
+msgid "No Backup-Files available"
+msgstr "Keine Backup-Dateien verfügbar"
+
+#: inc/ovm_po_premium.php:330 inc/ovm_po_premium_sik.php:216
+msgid "Pages and Posts width this image"
+msgstr "Seiten und Beiträge mit diesem Bildmedium"
+
+#: inc/ovm_po_premium.php:376 inc/ovm_po_premium_sik.php:262 index.php:420
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert"
+
+#: inc/ovm_po_premium.php:395 inc/ovm_po_premium.php:396
+#: inc/ovm_po_premium_sik.php:281 inc/ovm_po_premium_sik.php:282 index.php:286
+#: index.php:287 index.php:434
+msgid "Categories"
+msgstr "Kategorien"
+
+#: inc/ovm_po_premium.php:400 inc/ovm_po_premium_sik.php:286 index.php:291
+msgid "Add"
+msgstr "Neu"
+
+#: inc/ovm_po_premium.php:406 inc/ovm_po_premium_sik.php:292 index.php:297
+msgid "Remove"
+msgstr "Klscgeb"
+
+#: inc/ovm_po_premium.php:411 inc/ovm_po_premium.php:412
+#: inc/ovm_po_premium_sik.php:297 inc/ovm_po_premium_sik.php:298 index.php:302
+#: index.php:303
+msgid "Delete all"
+msgstr "Alles löschen"
+
+#: inc/ovm_po_premium.php:441 inc/ovm_po_premium.php:453
+#: inc/ovm_po_premium_sik.php:327 inc/ovm_po_premium_sik.php:339 index.php:249
+#: index.php:260 index.php:528
+msgid "View all categories"
+msgstr "Alle Kategorien"
+
+#: index.php:435
+msgid "Get Premium Version"
+msgstr "Premiumversion anfordern"
+
+#: ovm-picture-organizer.php:127
+msgid "Only available in Premium-Version"
+msgstr "Nur in der Premium-Version verfügbar"
+
+#: ovm-picture-organizer.php:137
+msgid "Better media-management with picture-organizer"
+msgstr "Besseres Medien-Management mit dem Picture-Organizer"
+
+#: ovm-picture-organizer.php:313
+msgid "Error: Picture-Organizer-Premium is not active"
+msgstr "Fehler: Picture-Organizer-Premium ist noch nicth aktiv"
+
+#: ovm-picture-organizer.php:330
+msgid "Error during install Premium-Files"
+msgstr "Fehler bei der Installation der Premium-Version"
+
+#: ovm-picture-organizer.php:332
+msgid ""
+"Premium-Files successfully installed - Reload Page to see the new Version"
+msgstr ""
+"Premium-Version wurde erfolgreich upgedated - Anzeige der neuen Version beim "
+"nächsten Seitenaufruf"
+
+#: ovm-picture-organizer.php:334
+msgid "New Plugin-Code successfull installed"
+msgstr "Neuer Plugin-Code erfolgreich installiert"
+
+#: ovm-picture-organizer.php:336
+msgid "Your Premium-Plugin is upToDate, no newer plugin available"
+msgstr "Ihr Premium-Plugin ist aktuell, es ist keine neuere Version verfügbar"
+
+#: ovm-picture-organizer.php:366
+msgid "Support"
+msgstr "Support"
+
+#: ovm-picture-organizer.php:379
+msgid ""
+"Simple Management and Output of Picture-Credits with the Picture-Organizer"
+msgstr ""
+"Einfache Verwaltung und Ausgabe der Bildnachweise mit dem Picture-Organizer"
+
+#: ovm-picture-organizer.php:529
+msgid "License-Error, possible Reasons"
+msgstr "Lizenz-Fehler - mögliche Ursachen"
+
+#: ovm-picture-organizer.php:531
+msgid "Invalid License-Key"
+msgstr "Ungültiger Lizenz-Key"
+
+#: ovm-picture-organizer.php:532
+msgid "Invalid E-Mail"
+msgstr "Ungültige E-Mail-Adresse"
+
+#: ovm-picture-organizer.php:533
+msgid "You own no License"
+msgstr "Sie besitzen keine gültige Lizenz"
+
+#: ovm-picture-organizer.php:534
+msgid "Too much License used"
+msgstr "Zu viele Lizenzen genutz"
+
+#: ovm-picture-organizer.php:542
+msgid "Premium-License for this blog not activated"
+msgstr "Premium-Lizenz für diesen Blog nicht aktiviert"
+
+#: ovm-picture-organizer.php:571
+msgid "Premium version removed"
+msgstr "Premium-Version erfolgreich entfernt"
+
+#: ovm-picture-organizer.php:631
+msgid "Picture-Organizer - Settings"
+msgstr "Picture-Organizer - Einstellungen"
+
+#: ovm-picture-organizer.php:635
+msgid "output-settings"
+msgstr "Ausgabe-Einstellungen"
+
+#: ovm-picture-organizer.php:637
+msgid "Premium-Settings"
+msgstr "Premium-Einstellungen"
+
+#: ovm-picture-organizer.php:639
+msgid "Support-Infos"
+msgstr "Support-Informationen"
+
+#: ovm-picture-organizer.php:641
+msgid "Uninstall-Settings"
+msgstr "Uninstall-Einstellungen"
+
+#: ovm-picture-organizer.php:643
+msgid "Backup"
+msgstr "Backup"
+
+#: ovm-picture-organizer.php:689
+msgid "Settings for Image-Credits-Output"
+msgstr "Ausgabeeinstellungen für die Nachweisausgabe"
+
+#: ovm-picture-organizer.php:692
+msgid "HTML-Text for output"
+msgstr "HTML-Ausgabe"
+
+#: ovm-picture-organizer.php:698
+msgid "Text-Position-Setting"
+msgstr "Position für HTML-Ausgabe "
+
+#: ovm-picture-organizer.php:699
+msgid "This sample-table shows you the using of the css-classes"
+msgstr "Diese Tabelle zeigt Ihnen die verwendeten CSS-Definitionen"
+
+#: ovm-picture-organizer.php:702
+msgid "Show your visitor, that you have a professional image-organisation"
+msgstr ""
+"Zeige Deinem Besucher, dass Du eine Professionelle Bildverwaltung einsetzt"
+
+#: ovm-picture-organizer.php:703
+msgid "Best effect ist the position above the picture-credits"
+msgstr "Die beste Wirkung wird bei Positionierung über der Liste erzielt"
+
+#: ovm-picture-organizer.php:707
+msgid "Don't show"
+msgstr "Nicht zeigen"
+
+#: ovm-picture-organizer.php:710
+msgid "Show above"
+msgstr "Darüber anzeigen"
+
+#: ovm-picture-organizer.php:713
+msgid "Show below"
+msgstr "Darunter anzeigen"
+
+#: ovm-picture-organizer.php:718
+msgid "CSS-Output-Sample"
+msgstr "CSS - Ausgabebeispiel"
+
+#: ovm-picture-organizer.php:741
+msgid "Output Sort and Group by Owner"
+msgstr "Sortierte Ausgabe und Gruppierung nach dem Rechteinhaber"
+
+#: ovm-picture-organizer.php:743
+msgid ""
+"Activate Checkbox if Output should be sorted and grouped by the Picture-Owner"
+msgstr ""
+"Checkbox aktivieren, wenn die Ausgabe nach dem Rechteinhaber gruppiert "
+"werden soll"
+
+#: ovm-picture-organizer.php:749
+msgid "Earn Money with Picture-Organizer"
+msgstr "Geld verdienen mit dem Picture-Organizer"
+
+#: ovm-picture-organizer.php:753
+msgid "Digistore-ID"
+msgstr "Digistore-ID"
+
+#: ovm-picture-organizer.php:755
+msgid "Enter your digistore-ID to earn money"
+msgstr "Digistore-ID eingeben und Geld verdienen"
+
+#: ovm-picture-organizer.php:765
+msgid ""
+"You like this tool? This tool has no competitors, and it's very cheap. You "
+"need not to sell it, you can give it"
+msgstr ""
+"Du magst dieses Tool? Es hat keine direkten Konkurrenten, und es ist sehr "
+"preiswert. Du musst es auch nicht verkaufen, Du kannst die Einstiegsversion "
+"kostenlos verteilen."
+
+#: ovm-picture-organizer.php:768
+msgid ""
+"More about the easy Affiliate-Program of Picture-Organizer on the Affiliate-"
+"Support-Page"
+msgstr ""
+"Mehr über das einfache Picture-Organizer Affiliate-Programm auf der "
+"Affiliate-Support-Seite"
+
+#: ovm-picture-organizer.php:776
+msgid "Picture-Categorizing"
+msgstr "Medien-Kategorisierung"
+
+#: ovm-picture-organizer.php:779
+msgid "Use Picture Categorizing"
+msgstr "Medien-Kategorisierung aktiviert"
+
+#: ovm-picture-organizer.php:787
+msgid "Restore default values"
+msgstr "Grundeinstellungen wiederherstellen"
+
+#: ovm-picture-organizer.php:788
+msgid "Click the following button if you want to restore the default values"
+msgstr ""
+"Auf den folgenden Button klicken, um die Grundeinstellungen "
+"wiederherzustellen"
+
+#: ovm-picture-organizer.php:792
+msgid "Restore Default-Values"
+msgstr "Standardeinstellungen wiederherstellen"
+
+#: ovm-picture-organizer.php:805
+msgid "Picture-Organizer Premium"
+msgstr "Picture-Organizer Premium"
+
+#: ovm-picture-organizer.php:806
+msgid "Your Advantages with the Premium Version"
+msgstr "Ihre Vorteile der Picture-Organizer Premium-Version"
+
+#: ovm-picture-organizer.php:808
+msgid ""
+"The Premium Version of Picture-Organizer has a lot of advantiges for your "
+"daily work with WordPress"
+msgstr ""
+"Die Premium-Version des Picture-Organizer bietet viele Vorteile für Ihre "
+"täglieche Arbeit in WordPress"
+
+#: ovm-picture-organizer.php:810
+msgid ""
+"Show the picture-credits on the bottem of the page where the Pictures are "
+"shown"
+msgstr ""
+"Zeigt die Urherberechtsnachweise am Ende der Seite an, auf der das Bild "
+"gezeigt wird"
+
+#: ovm-picture-organizer.php:811
+msgid "Use Categories for your Media"
+msgstr "Metadaten zu einer oder mehreren Kategorien zuordnen"
+
+#: ovm-picture-organizer.php:812
+msgid "Search and filter the Categories for your Media"
+msgstr "Suche und Mediadaten nach Kategorien filtern"
+
+#: ovm-picture-organizer.php:813
+msgid "Use Tags for your Media"
+msgstr "Den Mediadaten einzelne Tags/Keywords zuordnen"
+
+#: ovm-picture-organizer.php:814
+msgid "Show the credits marked image on the page/post with the image"
+msgstr "Zeigt die so Markierten Medien direkt am Ende der Seite an"
+
+#: ovm-picture-organizer.php:815
+msgid "Easy Backup your Media-Files and Picture-Credits"
+msgstr "Einfaches Backup der Medien-Dateien und der Urheberrechtsdaten"
+
+#: ovm-picture-organizer.php:816
+msgid "Output the Picture-Credits for each Categorie as XML"
+msgstr "Ausgabe der Urheberrechtsdaten je Kategorie als XML"
+
+#: ovm-picture-organizer.php:817
+msgid "Show the usage for each Picture (On Picture-Details-Site)"
+msgstr "Zeigt für jedes einzelne Bild an, auf welcher Seite es verwendet wurde"
+
+#: ovm-picture-organizer.php:819
+msgid "Order Premium Picture-Organizer NOW"
+msgstr "Picture-Organizer Premium bestellen"
+
+#: ovm-picture-organizer.php:823
+msgid "License-key"
+msgstr "Lizenz-Schlüssel"
+
+#: ovm-picture-organizer.php:824
+msgid ""
+"After you have ordered the Premium-Version you will recive an E-Mail with "
+"your License-Key"
+msgstr ""
+"Nach dem Kauf der Premium-Version erhalten Sie den Lizenz-Code per E-Mail"
+
+#: ovm-picture-organizer.php:825
+msgid "Please enter your data you got after buy the license"
+msgstr "Bitte geben Sie die Daten ein, die Sie beim Kauf bekommen haben"
+
+#: ovm-picture-organizer.php:828 ovm-picture-organizer.php:1138
+msgid "License-Key"
+msgstr "Lizenz-Key"
+
+#: ovm-picture-organizer.php:834
+msgid "E-Mail-adress"
+msgstr "E-Mail-Adresse"
+
+#: ovm-picture-organizer.php:849
+msgid "You already use the Premium-Version"
+msgstr "Sie benutzen bereits die Premium-Version"
+
+#: ovm-picture-organizer.php:853
+msgid "Check for your intalled Premium-Version"
+msgstr "Überprüfung auf die installierte Premium-Version"
+
+#: ovm-picture-organizer.php:856
+msgid "Current Version installed"
+msgstr "Aktuelle Version installiert"
+
+#: ovm-picture-organizer.php:860
+msgid "Check for actual Version"
+msgstr "Überprüfung auf die aktuelle Version"
+
+#: ovm-picture-organizer.php:862
+msgid "Click to check for Premium-Updates"
+msgstr "Hier Klicken um zu prüfen, ob ein neues Premium-Update verfügbar ist"
+
+#: ovm-picture-organizer.php:868 ovm-picture-organizer.php:872
+msgid "Remove Premium-Version"
+msgstr "Premium-Version entfernen"
+
+#: ovm-picture-organizer.php:874
+msgid "Removes Premium-Features of Picture-Organizer"
+msgstr "Entfernt die Premium-Version des Picture-Organizer"
+
+#: ovm-picture-organizer.php:893
+msgid "Uninstall Settings"
+msgstr "Uninstall-Einstellungen"
+
+#: ovm-picture-organizer.php:896
+msgid "Delete all data during uninstall"
+msgstr "Alle Daten bei der Deinstallation unwiderruflich löschen"
+
+#: ovm-picture-organizer.php:1031
+msgid "No Picture-Credits to show"
+msgstr "Keine Urheberrechtsdaten zum Anzeigen"
+
+#: ovm-picture-organizer.php:1121
+msgid "Publish Credit"
+msgstr "Bildnachweise anzeigen"
+
+#: ovm-picture-organizer.php:1127
+msgid "author"
+msgstr "Autor"
+
+#: ovm-picture-organizer.php:1130
+msgid "Photographer"
+msgstr "Fotograf"
+
+#: ovm-picture-organizer.php:1141
+msgid "License-Key identifies your license - important!"
+msgstr "Wichtig: Der Lizenzkey identifiziert die Bilddatei"
+
+#: ovm-picture-organizer.php:1144
+msgid "Portal"
+msgstr "Portal"
+
+#: ovm-picture-organizer.php:1147
+msgid "Download-Portal (for instance Fotolia)"
+msgstr "Download-Portal (z.B. Fotolia)"
+
+#: ovm-picture-organizer.php:1150
+msgid "URI"
+msgstr "URI"
+
+#: ovm-picture-organizer.php:1153
+msgid "(Link to the Authors-Site)"
+msgstr "(Link zur Seite des Rechteinhabers)"
+
+#: ovm-picture-organizer.php:1157
+msgid "Date of Buy"
+msgstr "Kaufdatum"
+
+#: ovm-picture-organizer.php:1160
+msgid "(The Date, on which you bought the image)"
+msgstr "Das Datum, an dem das Bild gekauft wurde"
+
+#: ovm-picture-organizer.php:1163
+msgid "Internal Comment"
+msgstr "Interner Kommentar"
+
+#: ovm-picture-organizer.php:1166
+msgid "(Internal Comments because of the rights or other Infos)"
+msgstr "Interner Kommentar, z.b. Hinweise über die Rechte etc."
+
+#: ovm-picture-organizer.php:1170
+msgid "Online Comments"
+msgstr "Kommentare Online"
+
+#: ovm-picture-organizer.php:1173
+msgid ""
+"(helpful comments depending on which site the image is published or anything "
+"else...)"
+msgstr "z.B. Erläuterung, auf welcher Seite sich das Bild befindet o.ä."
+
+#: ovm-picture-organizer.php:1178
+msgid ""
+"Activate, if the Picture-Credit has to be shown on the same site as the "
+"Image "
+msgstr ""
+"Hier aktivieren, wenn der Urheberrechtsnachweis auch auf der Seite des "
+"Bildes angezeigt werden soll"
+
+#: ovm-picture-organizer.php:1191
+msgid "Show Picture Credit on bottom of Page"
+msgstr "Bild unterhalb der Seite, auf der es eingebunden ist, anzeigen"
+
+#: ovm-picture-organizer.php:1306
+msgid "Rate Us"
+msgstr "Bewerte uns"
+
+#~ msgid "Category Attachmentss"
+#~ msgstr "Medien-Kategorien"
+
+#~ msgid "Search Category Attachmentss"
+#~ msgstr "Kategorien durchsuchen"
+
+#~ msgid "Popular Category Attachmentss"
+#~ msgstr "Beliebte Kategorien"
+
+#~ msgid "All Category Attachmentss"
+#~ msgstr "Hinzufügen Kategorie für Attachments"
+
+#~ msgid "Add or remove category attachmentss"
+#~ msgstr "Hinzufügen oder Löschen von Kategorien für Attachments"
+
+#~ msgid "Choose from most used category attachmentss"
+#~ msgstr "Wähle aus den am häufigst verwendeten Kategorien"
+
+#~ msgid "Get Premium Version - Category"
+#~ msgstr "Get Premium Version - Category"
+
+#~ msgid "To Check and update: Activate Checkbox and press button below"
+#~ msgstr ""
+#~ "Überprüfung und Update: Checkbox aktivieren und Button unten anklicken"
+
+#~ msgid "Backup Credit-Data and images"
+#~ msgstr "Sichern von Daten und Bildern"
+
+#~ msgid "Domains"
+#~ msgstr "Domains"
+
+#~ msgid "Add or remove writers"
+#~ msgstr "Autoren hinzufügen oder löschen"
+
+#~ msgid "Domain"
+#~ msgstr "Domain"
